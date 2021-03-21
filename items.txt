@@ -1,0 +1,36 @@
+$boots;
+type:ADD ON;
+level:1;
+ability:SPEED +1
+$sword;
+type:WEAPON;
+level:2;
+ability:DMG +1
+$spell;
+type:ONETIME;
+level:2;
+ability:HP +1
+$shield;
+type:ARMOR;
+level:1;
+ability:ARMOR +2
+$armor;
+type:ADD ON;
+level:1;
+ability:ARMOR +3
+$bow;
+type:WEAPON;
+level:2;
+ability:DMG +2
+$potion;
+type:POTION;
+level:1;
+ability:HP +1
+$helm;
+type:ADD ON;
+level:1;
+ability:ARMOR +1
+$trousers;
+type:ADD ON;
+level:1;
+ability:SPEED +1

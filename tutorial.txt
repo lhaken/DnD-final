@@ -1,0 +1,72 @@
+BASIC INFO
+
+for a cleaner look head to: http://85.70.120.194/
+
+>goal
+The goal of this game is to find final dungeon and slay the boss.
+>how to play
+Open the file named game.py, you can use VS, Pycharm, IDLE or just console.
+When you spawn, you can walk around 10x10 playmap. More in tips.
+>tips
+There are several dungeons on map, with various difficulty levels.
+You might not be able to enter harder dungeons before you clear easier ones.
+On your journey, you can enter locations of caves, cities, villages, farms and monasteries, where you can find useful loot.
+Locations of lakes, forests, mountains and swamps upon entering may contain wizard, who enchants only one of your items with his powerful spell.
+LIST OF COMMANDS
+>general
+-help
+-enter - enters a location that can be entered
+-north \
+-south  \ all these are for general movement
+-west   / around the map and inside dungeons
+-east  /
+-chart - prints a map with all revealed locations
+-back - returns you back by one position
+-stats - shows stats of your character...seriously, what have you thought?
+-inventory
+-info -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+-drop -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+-equip -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+-unequip -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+>interaction with wizard
+-enchant -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+-skip
+-stats
+-inventory
+-info -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+-drop -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+-equip -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+-unequip -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+>interaction with chest
+-loot
+-skip
+-stats
+-inventory
+-info -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+-drop -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+-equip -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+-unequip -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+>interaction with item
+-take
+-explore -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+-skip
+-stats
+-inventory
+-info -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+-drop -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+-equip -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+-unequip -> then write one item in the form that you can see in the inventory (shield#1, boots#2, etc.)
+>the dungeon/tips
+-P - player's position
+-R - room that a player can move into
+-M - room that a player can move into and it contains a monster
+-N - nothing, player can't move there
+>dungeon/movement
+-north \
+-south  \ all these are for general movement
+-west   / around the map and inside dungeons
+-east  /
+-leave - leaves dungeon. How self-explanatory huh?
+>dungeon/fight
+-attack
+-cover
