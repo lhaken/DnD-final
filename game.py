@@ -406,6 +406,7 @@ def playerWin():
                  (((~) \  /              Lukáš Haken
                  ______/ /
                  '------'\n""")
+    input()
     return
 
 
